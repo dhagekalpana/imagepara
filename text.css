@@ -1,0 +1,20 @@
+#myImage{
+    float: left;
+    display: flex;
+    width: 30%;
+ }
+#para{
+      overflow: hidden;
+      font-size: 200%;
+      text-align:left;
+
+}
+#image{
+    float: right;
+    display: flex;
+    width: 30%;
+}
+#text{
+    text-align: left;
+    font-size: 200%;
+}
